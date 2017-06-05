@@ -1,6 +1,6 @@
 @media screen and (max-width:1366px) {
   .game-container {
-      height: 768px;
+      height: 100%px;
       width: 100%;
   }
   .unity, .unity-container {
