@@ -7,13 +7,12 @@
     "react": "^15.5.4",
     "react-dom": "^15.5.4",
     "react-router": "^4.1.1",
+    "react-router-dom": "^4.1.1",
+    "react-scripts": "1.0.7",
     "react-unity-webgl": "^5.7.0",
-    "whatwg-fetch": "^2.0.3",
-    "react-scripts": "1.0.7"
+    "whatwg-fetch": "^2.0.3"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
