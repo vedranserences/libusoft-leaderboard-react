@@ -1,0 +1,89 @@
+* {
+    text-align: none;
+}
+
+.outer {
+    overflow: hidden;
+}
+
+h1 {
+  text-align: center;
+  position: relative;
+  font-size: 100px;
+  color: white;
+  top: 40px;
+}
+
+.biceps-lijevo {
+  position: fixed;
+  left: 27%;
+  top: 50px;
+  height: 256px;
+  width: 256px;
+}
+
+.biceps-desno {
+  position: fixed;
+  right: 27%;
+  top: 50px;
+  height: 256px;
+  width: 256px;
+}
+
+.leaderboard {
+    position: relative;
+    text-align: center;
+    width: 650px;
+    height: 800px;
+    margin: 0 auto;
+    padding: 0px 400px;
+    overflow-y: scroll;
+}
+
+.leaderboard-header {
+    position: relative;
+    top: 80px;
+    margin: 0px;
+    padding: 0px;
+    font-size: 32px;
+    color: white;
+    list-style: none;
+    height: 42px;
+}
+
+.place {
+    float: left;
+}
+
+.user {
+    float: left;
+    margin-left: 35%;
+}
+
+.points {
+    float: right;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+.leaderboard-list {
+    position: relative;
+    top: 100px;
+    padding: 0px;
+}
+
+.superherokid, .superherogirl {
+    position: fixed;
+}
+
+.superherokid {
+    left: 400px;
+    top: 35%;
+}
+
+.superherogirl {
+    top: 35%;
+    right: 400px;
+}
