@@ -246,22 +246,23 @@ a {
 
 .nlo-large {
     position: absolute;
-    top: 100px;
+    top: 80px;
+    right: 10px;
     width: 200px;
     height: 80px;
 }
 
 .nlo-medium {
     position: absolute;
-    top: 300px;
-    right: 350px;
+    top: 200px;
+    right: 250px;
     height: 48px;
     width: 100px;
 }
 .nlo-small {
     position: absolute;
-    top: 400px;
-    right: 600px;
+    top: 300px;
+    right: 400px;
     height: 20px;
     width: 48px;
 }
