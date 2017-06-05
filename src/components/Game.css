@@ -1,4 +1,9 @@
 @media screen and (max-width:1366px) {
-    height: 100%;
-    width: 100%;
+  .game-container {
+      height: 768px;
+      width: 100%;
+  }
+  .unity, .unity-container {
+      height: 100%;
+  }
 }
